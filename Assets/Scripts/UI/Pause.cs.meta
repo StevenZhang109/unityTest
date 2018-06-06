@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 20c701b8a44850549818325a7350332c
+timeCreated: 1526309804
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pauseSound: {fileID: 8300000, guid: 7201e3d2213a98d4bb9331a0f3cf421e, type: 3}
+  - text: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

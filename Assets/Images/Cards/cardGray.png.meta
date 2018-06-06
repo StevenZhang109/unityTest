@@ -1,0 +1,1039 @@
+fileFormatVersion: 2
+guid: 180b7e8cfcc5beb45b82cdba379863c4
+timeCreated: 1526521468
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cardGray_0
+    21300002: cardGray_1
+    21300004: cardGray_2
+    21300006: cardGray_3
+    21300008: cardGray_4
+    21300010: cardGray_5
+    21300012: cardGray_6
+    21300014: cardGray_7
+    21300016: cardGray_8
+    21300018: cardGray_9
+    21300020: cardGray_10
+    21300022: cardGray_11
+    21300024: cardGray_12
+    21300026: cardGray_13
+    21300028: cardGray_14
+    21300030: cardGray_15
+    21300032: cardGray_16
+    21300034: cardGray_17
+    21300036: cardGray_18
+    21300038: cardGray_19
+    21300040: cardGray_20
+    21300042: cardGray_21
+    21300044: cardGray_22
+    21300046: cardGray_23
+    21300048: cardGray_24
+    21300050: cardGray_25
+    21300052: cardGray_26
+    21300054: cardGray_27
+    21300056: cardGray_28
+    21300058: cardGray_29
+    21300060: cardGray_30
+    21300062: cardGray_31
+    21300064: cardGray_32
+    21300066: cardGray_33
+    21300068: cardGray_34
+    21300070: cardGray_35
+    21300072: cardGray_36
+    21300074: cardGray_37
+    21300076: cardGray_38
+    21300078: cardGray_39
+    21300080: cardGray_40
+    21300082: cardGray_41
+    21300084: cardGray_42
+    21300086: cardGray_43
+    21300088: cardGray_44
+    21300090: cardGray_45
+    21300092: cardGray_46
+    21300094: cardGray_47
+    21300096: cardGray_48
+    21300098: cardGray_49
+    21300100: cardGray_50
+    21300102: cardGray_51
+    21300104: cardGray_52
+    21300106: cardGray_53
+    21300108: cardGray_54
+    21300110: cardGray_55
+    21300112: cardGray_56
+    21300114: cardGray_57
+    21300116: cardGray_58
+    21300118: cardGray_59
+    21300120: cardGray_60
+    21300122: cardGray_61
+    21300124: cardGray_62
+    21300126: cardGray_63
+    21300128: cardGray_64
+    21300130: cardGray_65
+    21300132: cardGray_66
+    21300134: cardGray_67
+    21300136: cardGray_68
+    21300138: cardGray_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cardGray_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 937
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 937
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 936
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_3
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 936
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 936
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 936
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_6
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 936
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_8
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_9
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_10
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_11
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_12
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_13
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 847
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 758
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_15
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 758
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_16
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 758
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 758
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 758
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 758
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_20
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 757
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 669
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_22
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 667
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 669
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_24
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 669
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_25
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 669
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_26
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 669
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_27
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 669
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_28
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_29
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_30
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_31
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_32
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_33
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_34
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 580
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 491
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 491
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_37
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 491
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 491
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 491
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_40
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 487
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_41
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 486
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_42
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_43
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_44
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_46
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_47
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_48
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 402
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_50
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_51
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_52
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_54
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_55
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 313
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_56
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_57
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_59
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_60
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_61
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_62
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 224
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_65
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_66
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_67
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_68
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cardGray_69
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 135
+        width: 62
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
